@@ -1,0 +1,30 @@
+{
+  "name": "react-connected-transition-with-router-and-transition-group",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "animejs": "2.2.0",
+    "babel-plugin-transform-class-properties": "6.24.1",
+    "react": "latest",
+    "react-connected-transition": "1.1.2",
+    "react-dom": "16.4.2",
+    "react-router": "4.3.1",
+    "react-router-dom": "4.3.1",
+    "react-transition-group": "2.4.0"
+  },
+  "devDependencies": {
+    "@types/animejs": "2.0.0",
+    "@types/react": "16.4.18",
+    "@types/react-dom": "16.0.9",
+    "@types/react-router": "4.0.32",
+    "@types/react-router-dom": "4.3.1",
+    "@types/react-transition-group": "2.0.14",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
